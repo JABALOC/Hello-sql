@@ -1,0 +1,3 @@
+IFNULL
+
+SELECT * FROM users 

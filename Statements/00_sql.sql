@@ -1,4 +1,4 @@
-SQL -- Structured Query Languaje (Lenguaje de Consulta Estructurado)
+SQL -- Structured Query Language (Lenguaje de Consulta Estructurado)
 
 -- Lenguaje estándar para gestionar y consultar bases de datos
 
