@@ -67,3 +67,7 @@ age	            int	YES
 email	        varchar(100)	YES			
 created	        datetime	    YES		        CURRENT_TIMESTAMP	DEFAULT_GENERATED	
 */
+
+-- Si queremos borrar una restricción que hemos puesto por error se hace así:
+-- Por ejemplo, añadimos la restricción UNIQUE a email y ya no lo queremos
+ALTER TABLE usuarios5 DROP INDEX email;
